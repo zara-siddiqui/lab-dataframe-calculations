@@ -6,7 +6,7 @@
 
 We have learned the basics of dataframe calculation, aggregation, and summarization in the lesson. In this lab you will practice the functions covered in the lessons and learn more advanced ones by solving a series of challenges.
 
-In this lab we also want you to focus on refining your problem-solving process in addition to completing the challenges. Data analysis is an iterative problem-solving process. You will need to break down a complex problem into a subset of less complex problems, then tackle each sub problems in a progressive order. You may need to further break down the sub problems into sub-sub problems and so on so forth depending on the complexity of those problems. You will keep breaking down the problems until you are able to solve each of them.
+In this lab we also want you to focus on refining your problem-solving process in addition to completing the challenges. Data analysis is an iterative problem-solving process. You will need to break down a complex problem into a subset of less complex problems, then tackle each sub problem in a progressive order. You may need to further break down the sub problems into sub-sub problems and so on and so forth depending on the complexity of those problems. You will keep breaking down the problems until you are able to solve each of them.
 
 During the problem-solving process, you are required to constantly test your solutions and reflect on your goals and problem-solving strategies. You may be required to revise the problem-solving strategies and sometimes redefine the problem subsets based on your latest discoveries.
 
